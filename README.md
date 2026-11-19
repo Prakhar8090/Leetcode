@@ -9,6 +9,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prakhar8090/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prakhar8090/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -22,10 +23,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prakhar8090/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prakhar8090/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Prakhar8090/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prakhar8090/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Prakhar8090/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prakhar8090/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
